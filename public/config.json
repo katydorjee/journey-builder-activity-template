@@ -24,7 +24,7 @@
 				}							
 			],
           "outArguments": [],
-          "url": "https://opensms.herokuapp.com/journeybuilder/execute",
+          "url": "https://sfmc-test-app.herokuapp.com/journeybuilder/execute",
            "verb": "POST",
             "body": "",
             "header": "",
